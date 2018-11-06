@@ -1,9 +1,9 @@
-package com.company;
+package linkedList;
 
 public class ListNode {
 
-    ListNode next;
-    int data;
+    public ListNode next;
+    public int data;
 
     ListNode(int data) {
         this.next = null;

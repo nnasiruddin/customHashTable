@@ -1,4 +1,4 @@
-package com.company;
+package hashMap;
 
 public class HashMapEntry {
     public HashMapEntry getNext() {

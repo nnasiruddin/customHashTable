@@ -1,11 +1,11 @@
-package com.company;
+package linkedList;
 
 public class LinkedListCustom {
 
-    ListNode head;
-    int size;
+    public ListNode head;
+    public int size;
 
-    LinkedListCustom() {
+    public LinkedListCustom() {
         this.head = null;
     }
 
